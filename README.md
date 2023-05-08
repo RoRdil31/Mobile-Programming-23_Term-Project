@@ -1,4 +1,4 @@
-# Mobile-Programming-23_Term-Project
+# Mobile-Programming-23_Term-Project_UJipsa
 
 
 Data Base System.
