@@ -11,6 +11,7 @@ import java.sql.*;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+//+변경후
 public class Login{
     /*
     private JTextField txtId;
@@ -27,7 +28,7 @@ public class Login{
     public Login() {
 
 
-
+// 수정
         OKButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -35,7 +36,7 @@ public class Login{
 
 
 
-                String dbURL = "jdbc:mysql://localhost:3306/main";
+                String dbURL = "jdbc:mysql://localhost:3307/main";
 
                 String user_name = "root"; //  MySQL 서버 아이디
                 String password = "0000"; // MySQL 서버 비밀번호
