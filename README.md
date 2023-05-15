@@ -1,5 +1,5 @@
-# Mobile-Programming-23_Term-Project
-
+# Mobile-Programming-23_Term-Project_UJipsa
+rordil의 branch
 
 Data Base System.
 
