@@ -164,12 +164,6 @@ public class Login{
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setTitle("Instagram");
         setVisible(true);
-
-
-
-
-
-
     }
 }
 
